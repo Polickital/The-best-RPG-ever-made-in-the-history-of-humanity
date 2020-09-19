@@ -1,0 +1,13 @@
+C:\Users\Dood\Documents\dood\bin\Debug\netcoreapp3.1\dood.exe
+C:\Users\Dood\Documents\dood\bin\Debug\netcoreapp3.1\dood.deps.json
+C:\Users\Dood\Documents\dood\bin\Debug\netcoreapp3.1\dood.runtimeconfig.json
+C:\Users\Dood\Documents\dood\bin\Debug\netcoreapp3.1\dood.runtimeconfig.dev.json
+C:\Users\Dood\Documents\dood\bin\Debug\netcoreapp3.1\dood.dll
+C:\Users\Dood\Documents\dood\bin\Debug\netcoreapp3.1\dood.pdb
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.csprojAssemblyReference.cache
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.AssemblyInfoInputs.cache
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.AssemblyInfo.cs
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.csproj.CoreCompileInputs.cache
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.dll
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.pdb
+C:\Users\Dood\Documents\dood\obj\Debug\netcoreapp3.1\dood.genruntimeconfig.cache
